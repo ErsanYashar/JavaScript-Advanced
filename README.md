@@ -1,2 +1,2 @@
 # JavaScript-Advanced
-В курса "JS Advanced" се получите задълбочени познания по езика JavaScript, като основи на синтаксиса, работа с масиви, матрици, обекти, класове и писане на функции. Изучават се по-сложни концепции като function context, explicit binding, event loop. В курса се развива алгоритмичното мислене. След курса се има знания за работа с DOM дървото, манипулации по него и да работа с "event"-и. Разглежда се функционални и ООП подходите за програмиране с JavaScript, като се изучава концепции, като inheritance, object composition и prototype chain.
+DOM / CLASSES / UNIT TESTING
